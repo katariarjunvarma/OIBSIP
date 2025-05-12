@@ -1,4 +1,5 @@
-OIBSIP Projects - Python
+OIBSIP Projects 
+- Python
 This repository contains three Python projects developed during the Oasis Infobyte Summer Internship Program (OIBSIP). These projects aim to showcase my skills in Python programming, problem-solving, and application development. Below are the projects included:
 
 Projects Overview
@@ -49,8 +50,6 @@ How to Run the Projects
 Install Required Libraries:
 
 bash
-Copy
-Edit
 pip install -r requirements.txt
 (This file includes all necessary dependencies for the projects.)
 
@@ -58,8 +57,7 @@ Run the Project:
 Navigate to the respective project folder and run the main Python file:
 
 bash
-Copy
-Edit
 python main.py
+
 Conclusion
 These projects helped me further my understanding of Python programming, GUI development, and working with APIs. I am constantly looking to improve my skills and take on new challenges.
